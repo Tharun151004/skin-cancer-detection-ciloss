@@ -42,7 +42,7 @@ We implement **transfer learning with VGG16** and introduce a **custom imbalance
 ## 🚀 How to Run
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/skin-cancer-detection-ciloss.git
+git clone https://github.com/Tharun151004/skin-cancer-detection-ciloss.git
 cd skin-cancer-detection-ciloss
 
 # Install dependencies
